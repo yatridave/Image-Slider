@@ -5,6 +5,6 @@ Cities from my bucket list.
 - Venice
 - Scotland
 - Newyork
-- and the list goes on...
+- And the list goes on...
 
 
