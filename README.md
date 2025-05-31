@@ -1,5 +1,5 @@
 # Image-Slider
-Cities from my bucket list.
+Cities from my travel bucket list.
 - London
 - Paris
 - Venice
